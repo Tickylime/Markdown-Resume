@@ -25,7 +25,7 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
+ - 男，1995 年出生
  - 求职意向：Java 研发工程师
  - 工作经验：0 年（校招可不填）
  - 期望薪资：0k（校招可不填）
