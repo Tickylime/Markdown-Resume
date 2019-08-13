@@ -3,12 +3,12 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             15958106635
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             312362235@qq.com
          </span>
          ·
          <span>
@@ -25,21 +25,24 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1995 年出生
+ - 男，1995.04
  - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 工作经验：2 年
+ - 期望薪资：12k
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- 学士，中国计量大学，自动化专业，2013.9~2017.6
+- 通过 CET-6/浙江省二级C/全国大学生英语口语等级B+
+- 获得 1次校一等奖学金/1次校学业奖学金/4次校三等奖学金
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- **杭州海康威视数字技术股份有限公司，产品支持工程师，2018.09~2019.09**
+
+   负责 XXX
+
+- **恒生电子股份有限公司，客户支持工程师，2017.07~2018.09**
 
    负责 XXX
 
